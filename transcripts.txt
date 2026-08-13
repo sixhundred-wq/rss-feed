@@ -1,0 +1,3 @@
+SOURCE: Test transcript
+
+The most useful systems are often the ones that remove unnecessary complexity. A good system should make the desired behaviour easy to repeat and hard to break. When information accumulates over time, preserving the raw archive matters because future selections can draw from the whole history rather than only the newest material.
