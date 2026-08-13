@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Daily Insights</title>
+    <link>https://sixhundred-wq.github.io/rss-feed/</link>
+    <description>Ten random meaningful insights from the transcript archive, published daily.</description>
+    <language>en-gb</language>
+    <item>
+      <title>Simple systems are easier to repeat and harder to break.</title>
+      <description>Simple systems are easier to repeat and harder to break.</description>
+      <pubDate>Thu, 13 Aug 2026 12:46:00 +0500</pubDate>
+      <guid isPermaLink="false">test-2026-08-13-01</guid>
+    </item>
+    <item>
+      <title>Good system design removes unnecessary complexity.</title>
+      <description>Good system design removes unnecessary complexity.</description>
+      <pubDate>Thu, 13 Aug 2026 12:46:00 +0500</pubDate>
+      <guid isPermaLink="false">test-2026-08-13-02</guid>
+    </item>
+    <item>
+      <title>Preserving raw information keeps future choices open.</title>
+      <description>Preserving raw information keeps future choices open.</description>
+      <pubDate>Thu, 13 Aug 2026 12:46:00 +0500</pubDate>
+      <guid isPermaLink="false">test-2026-08-13-03</guid>
+    </item>
+    <item>
+      <title>A growing archive becomes more valuable when the whole history remains searchable.</title>
+      <description>A growing archive becomes more valuable when the whole history remains searchable.</description>
+      <pubDate>Thu, 13 Aug 2026 12:46:00 +0500</pubDate>
+      <guid isPermaLink="false">test-2026-08-13-04</guid>
+    </item>
+    <item>
+      <title>Repeatable behaviour is a practical measure of a system’s quality.</title>
+      <description>Repeatable behaviour is a practical measure of a system’s quality.</description>
+      <pubDate>Thu, 13 Aug 2026 12:46:00 +0500</pubDate>
+      <guid isPermaLink="false">test-2026-08-13-05</guid>
+    </item>
+    <item>
+      <title>Hard-to-break workflows are often better than clever ones.</title>
+      <description>Hard-to-break workflows are often better than clever ones.</description>
+      <pubDate>Thu, 13 Aug 2026 12:46:00 +0500</pubDate>
+      <guid isPermaLink="false">test-2026-08-13-06</guid>
+    </item>
+    <item>
+      <title>Accumulated material can support better selections than a narrow recent sample.</title>
+      <description>Accumulated material can support better selections than a narrow recent sample.</description>
+      <pubDate>Thu, 13 Aug 2026 12:46:00 +0500</pubDate>
+      <guid isPermaLink="false">test-2026-08-13-07</guid>
+    </item>
+    <item>
+      <title>Keeping the archive intact is more important than optimising it prematurely.</title>
+      <description>Keeping the archive intact is more important than optimising it prematurely.</description>
+      <pubDate>Thu, 13 Aug 2026 12:46:00 +0500</pubDate>
+      <guid isPermaLink="false">test-2026-08-13-08</guid>
+    </item>
+    <item>
+      <title>Future insight generation depends on preserving the source material.</title>
+      <description>Future insight generation depends on preserving the source material.</description>
+      <pubDate>Thu, 13 Aug 2026 12:46:00 +0500</pubDate>
+      <guid isPermaLink="false">test-2026-08-13-09</guid>
+    </item>
+    <item>
+      <title>The simplest useful workflow is often the most maintainable one.</title>
+      <description>The simplest useful workflow is often the most maintainable one.</description>
+      <pubDate>Thu, 13 Aug 2026 12:46:00 +0500</pubDate>
+      <guid isPermaLink="false">test-2026-08-13-10</guid>
+    </item>
+  </channel>
+</rss>
