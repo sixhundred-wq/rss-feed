@@ -1,130 +1,89 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Daily Insights</title>
-    <link>https://sixhundred-wq.github.io/rss-feed/</link>
-    <description>Ten random meaningful insights from the transcript archive, published daily.</description>
-    <language>en-gb</language>
+    <title>X Quotes</title>
+    <link>https://x.com</link>
+    <description>Recent posts from selected X profiles.</description>
+    <lastBuildDate>Sat, 19 Sep 2026 09:16:00 GMT</lastBuildDate>
     <item>
-      <title>Simple systems are easier to repeat and harder to break.</title>
-      <description>Simple systems are easier to repeat and harder to break.</description>
-      <pubDate>Thu, 13 Aug 2026 12:46:00 +0500</pubDate>
-      <guid isPermaLink="false">test-2026-08-13-01</guid>
-    </item>
-    <item>
-      <title>Good system design removes unnecessary complexity.</title>
-      <description>Good system design removes unnecessary complexity.</description>
-      <pubDate>Thu, 13 Aug 2026 12:46:00 +0500</pubDate>
-      <guid isPermaLink="false">test-2026-08-13-02</guid>
-    </item>
-    <item>
-      <title>Preserving raw information keeps future choices open.</title>
-      <description>Preserving raw information keeps future choices open.</description>
-      <pubDate>Thu, 13 Aug 2026 12:46:00 +0500</pubDate>
-      <guid isPermaLink="false">test-2026-08-13-03</guid>
-    </item>
-    <item>
-      <title>A growing archive becomes more valuable when the whole history remains searchable.</title>
-      <description>A growing archive becomes more valuable when the whole history remains searchable.</description>
-      <pubDate>Thu, 13 Aug 2026 12:46:00 +0500</pubDate>
-      <guid isPermaLink="false">test-2026-08-13-04</guid>
-    </item>
-    <item>
-      <title>Repeatable behaviour is a practical measure of a system’s quality.</title>
-      <description>Repeatable behaviour is a practical measure of a system’s quality.</description>
-      <pubDate>Thu, 13 Aug 2026 12:46:00 +0500</pubDate>
-      <guid isPermaLink="false">test-2026-08-13-05</guid>
-    </item>
-    <item>
-      <title>Hard-to-break workflows are often better than clever ones.</title>
-      <description>Hard-to-break workflows are often better than clever ones.</description>
-      <pubDate>Thu, 13 Aug 2026 12:46:00 +0500</pubDate>
-      <guid isPermaLink="false">test-2026-08-13-06</guid>
-    </item>
-    <item>
-      <title>Accumulated material can support better selections than a narrow recent sample.</title>
-      <description>Accumulated material can support better selections than a narrow recent sample.</description>
-      <pubDate>Thu, 13 Aug 2026 12:46:00 +0500</pubDate>
-      <guid isPermaLink="false">test-2026-08-13-07</guid>
-    </item>
-    <item>
-      <title>Keeping the archive intact is more important than optimising it prematurely.</title>
-      <description>Keeping the archive intact is more important than optimising it prematurely.</description>
-      <pubDate>Thu, 13 Aug 2026 12:46:00 +0500</pubDate>
-      <guid isPermaLink="false">test-2026-08-13-08</guid>
-    </item>
-    <item>
-      <title>Future insight generation depends on preserving the source material.</title>
-      <description>Future insight generation depends on preserving the source material.</description>
-      <pubDate>Thu, 13 Aug 2026 12:46:00 +0500</pubDate>
-      <guid isPermaLink="false">test-2026-08-13-09</guid>
-    </item>
-    <item>
-      <title>The simplest useful workflow is often the most maintainable one.</title>
-      <description>The simplest useful workflow is often the most maintainable one.</description>
-      <pubDate>Thu, 13 Aug 2026 12:46:00 +0500</pubDate>
-      <guid isPermaLink="false">test-2026-08-13-10</guid>
-    </item>
+      <title>@thejayalto: outer work &gt; inner work  jayalto.substack.com/p/some-semi-co…</title>
+      <link>https://x.com/theJayAlto/status/2101059632005599676</link>
+      <guid isPermaLink="true">https://x.com/theJayAlto/status/2101059632005599676</guid>
+      <pubDate>Sat, 19 Sep 2026 09:16:00 GMT</pubDate>
+      <description>outer work &gt; inner work
 
-    <item>
-      <title>Fixed-price projects give the customer more leverage, so uncontrolled scope can quickly drain the provider’s energy.</title>
-      <description>Fixed-price projects give the customer more leverage, so uncontrolled scope can quickly drain the provider’s energy. Source video: User-supplied transcript — 2026-08-13; section: Fixed Price Projects.</description>
-      <pubDate>Thu, 13 Aug 2026 13:06:00 +0500</pubDate>
-      <guid isPermaLink="false">2026-08-13-11</guid>
+jayalto.substack.com/p/some-semi-co…</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;@thejayalto&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;outer work &gt; inner work
+
+jayalto.substack.com/p/some-semi-co…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://x.com/theJayAlto/status/2101059632005599676&quot;&gt;View on X&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>Recording the kickoff and turning it into a written requirements document creates a defensible record of what was actually agreed.</title>
-      <description>Recording the kickoff and turning it into a written requirements document creates a defensible record of what was actually agreed. Source video: User-supplied transcript — 2026-08-13; section: Fixed Price Projects.</description>
-      <pubDate>Thu, 13 Aug 2026 13:06:00 +0500</pubDate>
-      <guid isPermaLink="false">2026-08-13-12</guid>
+      <title>@thejayalto: outer work &gt; inner work  jayalto.substack.com/p/some-semi-co…</title>
+      <link>https://x.com/theJayAlto/status/2101059632005599676/photo/1</link>
+      <guid isPermaLink="true">https://x.com/theJayAlto/status/2101059632005599676/photo/1</guid>
+      <pubDate>Sat, 19 Sep 2026 09:16:00 GMT</pubDate>
+      <description>outer work &gt; inner work
+
+jayalto.substack.com/p/some-semi-co…</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;@thejayalto&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;outer work &gt; inner work
+
+jayalto.substack.com/p/some-semi-co…&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://x.com/theJayAlto/status/2101059632005599676/photo/1&quot;&gt;View on X&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>Clear documentation lets you treat genuinely new requirements as new work instead of absorbing them silently into the original scope.</title>
-      <description>Clear documentation lets you treat genuinely new requirements as new work instead of absorbing them silently into the original scope. Source video: User-supplied transcript — 2026-08-13; section: Fixed Price Projects.</description>
-      <pubDate>Thu, 13 Aug 2026 13:06:00 +0500</pubDate>
-      <guid isPermaLink="false">2026-08-13-13</guid>
+      <title>@thejayalto: the good man lives for his children, whom he adores. the great man lives for his great-great-grandchildren, whom he know</title>
+      <link>https://x.com/theJayAlto/status/2101033471317627271</link>
+      <guid isPermaLink="true">https://x.com/theJayAlto/status/2101033471317627271</guid>
+      <pubDate>Sat, 19 Sep 2026 09:16:00 GMT</pubDate>
+      <description>the good man lives for his children, whom he adores. the great man lives for his great-great-grandchildren, whom he knows he’ll never meet.</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;@thejayalto&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;the good man lives for his children, whom he adores. the great man lives for his great-great-grandchildren, whom he knows he’ll never meet.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://x.com/theJayAlto/status/2101033471317627271&quot;&gt;View on X&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>Saying yes to every client request can leave both the team and the customer unhappy because expectations were never reset.</title>
-      <description>Saying yes to every client request can leave both the team and the customer unhappy because expectations were never reset. Source video: User-supplied transcript — 2026-08-13; section: Fixed Price Projects.</description>
-      <pubDate>Thu, 13 Aug 2026 13:06:00 +0500</pubDate>
-      <guid isPermaLink="false">2026-08-13-14</guid>
+      <title>@thejayalto: make cool shit. share it on the internet. meet smart people. repeat.  do it for long enough and you'll never have to app</title>
+      <link>https://x.com/theJayAlto/status/2100999796118974562</link>
+      <guid isPermaLink="true">https://x.com/theJayAlto/status/2100999796118974562</guid>
+      <pubDate>Sat, 19 Sep 2026 09:16:00 GMT</pubDate>
+      <description>make cool shit. share it on the internet. meet smart people. repeat.
+
+do it for long enough and you'll never have to apply for a job again.
+
+(plus you get to delete linkedin)</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;@thejayalto&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;make cool shit. share it on the internet. meet smart people. repeat.
+
+do it for long enough and you'll never have to apply for a job again.
+
+(plus you get to delete linkedin)&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://x.com/theJayAlto/status/2100999796118974562&quot;&gt;View on X&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>Leaders have to give team leads enough backing to say no or renegotiate when a client request would overload the team.</title>
-      <description>Leaders have to give team leads enough backing to say no or renegotiate when a client request would overload the team. Source video: User-supplied transcript — 2026-08-13; section: Fixed Price Projects.</description>
-      <pubDate>Thu, 13 Aug 2026 13:06:00 +0500</pubDate>
-      <guid isPermaLink="false">2026-08-13-15</guid>
+      <title>@thejayalto: reminds me of my favourite bob dylan quote:  “a man is a success if he gets up in the morning and gets to bed at night, </title>
+      <link>https://x.com/theJayAlto/status/2100709698215334143</link>
+      <guid isPermaLink="true">https://x.com/theJayAlto/status/2100709698215334143</guid>
+      <pubDate>Sat, 19 Sep 2026 09:16:00 GMT</pubDate>
+      <description>reminds me of my favourite bob dylan quote:
+
+“a man is a success if he gets up in the morning and gets to bed at night, and in between he does what he wants to do.”
+
+sounds selfish but i have a theory that if you're truly being yourself, it's impossible not to be generous.</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;@thejayalto&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;reminds me of my favourite bob dylan quote:
+
+“a man is a success if he gets up in the morning and gets to bed at night, and in between he does what he wants to do.”
+
+sounds selfish but i have a theory that if you're truly being yourself, it's impossible not to be generous.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://x.com/theJayAlto/status/2100709698215334143&quot;&gt;View on X&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>A short money-back guarantee can signal confidence in the work while filtering out customers who are only shopping around.</title>
-      <description>A short money-back guarantee can signal confidence in the work while filtering out customers who are only shopping around. Source video: User-supplied transcript — 2026-08-13; section: Fixed Price Projects.</description>
-      <pubDate>Thu, 13 Aug 2026 13:06:00 +0500</pubDate>
-      <guid isPermaLink="false">2026-08-13-16</guid>
+      <title>@thejayalto: this is the best thing i've read in a very very long time</title>
+      <link>https://x.com/theJayAlto/status/2100643536009904277</link>
+      <guid isPermaLink="true">https://x.com/theJayAlto/status/2100643536009904277</guid>
+      <pubDate>Sat, 19 Sep 2026 09:16:00 GMT</pubDate>
+      <description>this is the best thing i've read in a very very long time</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;@thejayalto&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;this is the best thing i've read in a very very long time&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://x.com/theJayAlto/status/2100643536009904277&quot;&gt;View on X&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
     <item>
-      <title>Taking payment upfront shifts some leverage back towards the provider instead of leaving it entirely with the customer.</title>
-      <description>Taking payment upfront shifts some leverage back towards the provider instead of leaving it entirely with the customer. Source video: User-supplied transcript — 2026-08-13; section: Fixed Price Projects.</description>
-      <pubDate>Thu, 13 Aug 2026 13:06:00 +0500</pubDate>
-      <guid isPermaLink="false">2026-08-13-17</guid>
-    </item>
-    <item>
-      <title>Retainers trade a lower rate for longer commitment, giving the provider more predictable cash flow.</title>
-      <description>Retainers trade a lower rate for longer commitment, giving the provider more predictable cash flow. Source video: User-supplied transcript — 2026-08-13; section: Retainer based projects.</description>
-      <pubDate>Thu, 13 Aug 2026 13:06:00 +0500</pubDate>
-      <guid isPermaLink="false">2026-08-13-18</guid>
-    </item>
-    <item>
-      <title>Trust-based client relationships work best when the business has enough sales pipeline to avoid negotiating from desperation.</title>
-      <description>Trust-based client relationships work best when the business has enough sales pipeline to avoid negotiating from desperation. Source video: User-supplied transcript — 2026-08-13; section: Retainer based projects.</description>
-      <pubDate>Thu, 13 Aug 2026 13:06:00 +0500</pubDate>
-      <guid isPermaLink="false">2026-08-13-19</guid>
-    </item>
-    <item>
-      <title>For someone starting out, landing a $1,000 project is genuinely difficult, so proposal quality and persistence matter more than online income promises suggest.</title>
-      <description>For someone starting out, landing a $1,000 project is genuinely difficult, so proposal quality and persistence matter more than online income promises suggest. Source video: User-supplied transcript — 2026-08-13; section: How to close $1k to $5k project?</description>
-      <pubDate>Thu, 13 Aug 2026 13:06:00 +0500</pubDate>
-      <guid isPermaLink="false">2026-08-13-20</guid>
+      <title>@thejayalto: this is the best thing i've read in a very very long time</title>
+      <link>https://x.com/theJayAlto/status/2100643536009904277/photo/1</link>
+      <guid isPermaLink="true">https://x.com/theJayAlto/status/2100643536009904277/photo/1</guid>
+      <pubDate>Sat, 19 Sep 2026 09:16:00 GMT</pubDate>
+      <description>this is the best thing i've read in a very very long time</description>
+      <content:encoded>&lt;p&gt;&lt;strong&gt;@thejayalto&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;this is the best thing i've read in a very very long time&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://x.com/theJayAlto/status/2100643536009904277/photo/1&quot;&gt;View on X&lt;/a&gt;&lt;/p&gt;</content:encoded>
     </item>
   </channel>
 </rss>
